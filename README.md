@@ -1,1 +1,1 @@
-# cs_101
+# Welcome to Computer Science 101
