@@ -23,7 +23,7 @@ output:
 - Jacquard Loom *(1801)*
     - Invented by Joseph Marie Jacquard 
     - Used punchcards for operations control
-- Electromechanical Punched Card Tabulator *(1899)*
+- Electromechanical Punched Card Tabulator *(1889)*
     - Herman Hollerith
     - First used in the U.S. Census of 1890
 - Internal Business Machines Corporation *(1911)*
