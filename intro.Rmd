@@ -38,3 +38,16 @@ output:
 - Why were computers created?
     - To make life easier!
     - Technology - the application of scientific knowledge for practical purposes, especially in industry
+    
+# Where do we use computers?
+
+- Computers are employed to assist humans in many different arenas.
+    - Applications range from Traffic Management to Biomedical Research
+        - *Bonus: What popular book written in the 90's was a warning against un-hindered biomedical research and application?* 
+        
+# Where do programmers fit in?
+
+- Computer Programmers are the translators between the machine and the man. 
+- Being able to understand what a person wants a computer to do and understanding what a computer can do are very important concepts.
+- Computer Programmers are the problem solvers at heart.
+- Problem Solvers who push boundries of what was thought to be possible. 
