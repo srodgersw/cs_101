@@ -45,7 +45,7 @@ output:
     - Applications range from Traffic Management to Biomedical Research
         - *Bonus: What popular book written in the 90's was a warning against un-hindered biomedical research and application?* 
         
-# Where do programmers fit in?
+# Where do Computer Programmers fit in?
 
 - Computer Programmers are the translators between the machine and the man. 
 - Being able to understand what a person wants a computer to do and understanding what a computer can do are very important concepts.
