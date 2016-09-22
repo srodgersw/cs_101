@@ -39,7 +39,9 @@ output:
 - Why were computers created?
     - To make life easier!
     - Technology - the application of scientific knowledge for practical purposes, especially in industry.
-    
+- Where are we going?
+    - Applications through the decades focus on business
+    - 
 # Where do we use computers?
 
 - Computers are employed to assist humans in many different arenas.
