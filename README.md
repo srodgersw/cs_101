@@ -15,7 +15,8 @@ output:
 # Origins
 
 - A (human) computer was a person whose job was to compute.
-- Likely started as early entry level astronomy workers.
+- Employed in many different areas of mathematics and accounting.
+- Often worked in groups to process data in parallel. 
 - First publication use in the 1850's in an obituary.
 
 # Development beyond Humans
